@@ -64,6 +64,7 @@ img.voice {
 }
 
 #buttons {
+	display: block;
 	padding-top: 18px;
 	text-align: center;
 }
@@ -113,6 +114,7 @@ img.voice {
 }
 
 #footer {
+	display: inline;
 	background: #f2f2f2;
 	border-top: 1px solid #e4e4e4;
 	line-height: 40px;
